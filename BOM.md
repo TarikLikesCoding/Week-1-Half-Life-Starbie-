@@ -18,7 +18,7 @@
 | [Chanzon SPDT Mini Micro Slide Switch 1p2t 2 Position 20pcs 3mm Toggle Vertical Slide Switch Panel Mount Small High Knob](https://www.amazon.ca/gp/product/B09R42XQTB/ref=ox_sc_act_title_4?smid=A14FP9XIRL6C1F&th=1) | The switch to turn on/off the battery when the project is connected to my computer | 2 | $0.25 | $0.50 | [Amazon](https://www.amazon.ca/gp/product/B09R42XQTB/ref=ox_sc_act_title_4?smid=A14FP9XIRL6C1F&th=1) |
 | [EEMB 3.7V Li-ion 502030 Battery 250mAh Lipo Battery Rechargeable Lithium Polymer ion Battery Pack with JST Connector.](https://www.amazon.ca/gp/product/B08FD3V6TF/ref=ox_sc_act_title_5?smid=A3JZ0E8P9D7DI&psc=1) | The battery thats going to be running my starbie even without my laptop | 1 | $11.91 | $11.91 | [Amazon](https://www.amazon.ca/gp/product/B08FD3V6TF/ref=ox_sc_act_title_5?smid=A3JZ0E8P9D7DI&psc=1) |
 | **Parts subtotal** | — | — | — | **$26.59** | — |
-| **Tax & shipping** | — | — | — | **$6.41** | — |
-| **Total** | — | — | — | **$33.00** | — |
+| **Tax & shipping** | — | — | — | **$6.22** | — |
+| **Total** | — | — | — | **$32.81** | — |
 
-**$3.00 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$2.81 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
